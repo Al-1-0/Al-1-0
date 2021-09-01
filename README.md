@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al-1-0
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning React, JavaScript ES6 & SCSS
+- 👀 I’m interested in web and software development and I'm currently doing a MSc in Mobile Web Development @ UWS.
+- 🌱 
 - 💞️ I’m looking to collaborate on digital projects for the web
 - 📫 How to reach me: https://www.linkedin.com/in/allan-mccafferty-303774164/
 
